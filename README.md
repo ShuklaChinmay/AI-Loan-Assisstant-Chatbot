@@ -5,6 +5,9 @@ The chatbot uses **Natural Language Processing (NLP) concepts and machine learni
 
 This project demonstrates how **AI-based virtual assistants can automate customer support in financial services**, helping users quickly access loan-related information.
 
+This project was developed as a collaborative project.
+My contribution: ML model and Backend & API Integration.
+
 ---
 
 ## Features 🚀
